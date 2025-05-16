@@ -1,4 +1,4 @@
-## Hi there 👋
+## Come and See
 
 <!--
 **makee-ham/makee-ham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Makee Ham"/>
+</a>
