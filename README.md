@@ -22,5 +22,3 @@ Here are some ideas to get you started:
   height="300"
 />
 </a>
-
-[![Makee's GitHub stats](https://github-readme-stats.vercel.app/api?username=makee-ham&count_private=true&show_icons=true&theme=neon&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
