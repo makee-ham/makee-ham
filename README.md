@@ -1,19 +1,5 @@
-## Come and See
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1&text=Weaving%20codes%20and%20stories&fontSize=50&fontAlignY=38&descAlignY=58)
 
-<!--
-**makee-ham/makee-ham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/718880218684969028/draw"
@@ -30,4 +16,4 @@ Here are some ideas to get you started:
 />
 </a>
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1&fontSize=50&fontAlignY=38&desc=to%20brighten%20people’s%20lives%20with%20joy%20and%20connection.&descAlignY=58&section=footer)
