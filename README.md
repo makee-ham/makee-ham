@@ -55,9 +55,13 @@
     <img src="https://render.gitanimals.org/guilds/718880218684969028/draw" width="400" height="200" alt="gitanimals"/>
   </a>
 
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=makee-ham&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/makee-ham" width="400" height="200" alt="gitanimals farm"/>
-  </a>
+ <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=makee-ham&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/makee-ham"
+  width="400"
+  height="200"
+/>
+</a>
 
   <br/>
 
