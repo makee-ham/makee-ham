@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
     <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
     <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redux Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Zustand-1A1A1A?style=flat-square&logo=Zustand&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
     <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
     <br/>
