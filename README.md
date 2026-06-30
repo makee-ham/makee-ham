@@ -2,12 +2,11 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1&text=Weaving%20codes%20and%20stories&fontSize=40&fontAlignY=38&descAlignY=58" alt="header"/>
 
-  <h3>Hi, I'm Seoyeon🥹</h3>
+  <h3>Hi, I'm Arin🥹</h3>
   <p>I'm excited to meet you — and see the stories you carry.</p>
   
 <h4>🤝 Feel free to connect with me ⤵</h4>
   <p>
-    <a href="https://www.linkedin.com/in/seoyeon-ham-811799313/"><img src="https://img.shields.io/badge/LinkedIn-0E76A8?style=flat-square&logoColor=white"/></a>
     <a href="mailto:hamseoyeon18@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
     <a href="https://open.kakao.com/me/makee_ham"><img src="https://img.shields.io/badge/Kakao Talk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>
     <a href="https://www.instagram.com/makee_ham/"><img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=instagram&logoColor=white"/></a>
@@ -47,7 +46,7 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
   </div>
 
-  <h4>I'm currently in the 11th Frontend Cohort at <a href="https://ozcodingschool.com/ozcoding/startupcamp/curriculum_front">OZ Coding School</a> with some awesome dudes!</h4>
+  <h4>I graduated <a href="https://ozcodingschool.com/ozcoding/startupcamp/curriculum_front">OZ Coding School</a> with awesome 11th Frontend Cohort!</h4>
 
   <br/>
 
