@@ -13,8 +13,6 @@
     <a href="https://www.youtube.com/@makee-ham-kr"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>
   </p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=makee-ham&theme=ambient_gradient&show_icons=true" alt="GitHub Stats"/>
-
   <h3>🛠 Skills and Tools</h3>
 
   <div>
